@@ -32,4 +32,10 @@
   <img align="center" alt="Megaman" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/546839066273120277/1064811853982744667/megamen-animacao.gif">
   <img align="center" alt="Pikachu" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/546839066273120277/1064800824678678528/pikachu-running.gif">
   <img align="center" alt="Sonic" height="150" width="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/546839066273120277/1064812411439288400/sonic-running.gif">
+</div> <br><br>
+
+## My Achievements and Certifications:
+
+<div>
+  <img align="center" alt="GCP-Associate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66412248">
 </div>
