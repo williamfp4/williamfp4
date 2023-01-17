@@ -32,6 +32,9 @@
 
 ## My Achievements and Certifications:
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <div>
   <img align="center" alt="GCP-Associate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66412248">
 </div>
