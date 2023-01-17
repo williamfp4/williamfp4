@@ -14,4 +14,3 @@ jobs:
         with:       
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: william-piossek # optional, but default will use the same from github
-          
