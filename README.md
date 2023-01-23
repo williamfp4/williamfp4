@@ -19,7 +19,7 @@
       <img align="center" height="26" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     </li>
     <li>
-      Games! Lots of videogames... (As you can see below :smirk:)
+      Games! Lots of videogames... (As you can see below 😌:)
     </li>
   </ul>
 </div>
