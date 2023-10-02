@@ -32,10 +32,6 @@
 
 ## My Achievements and Certifications:
 
-<!--START_SECTION:badges-->
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/c084666c-e663-4af1-b718-f44d464dfbe2 "AWS Partner: Accreditation (Technical)")
-[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/a628b751-3050-4bd2-8f73-40ce6d500c1b "AWS Partner: Cloud Economics Accreditation")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/77751712-95c0-4ee2-85d8-76799841df3a "AWS Certified Cloud Practitioner")
-<!--END_SECTION:badges-->
-<a href="http://www.credly.com/badges/77751712-95c0-4ee2-85d8-76799841df3a"> <img width="110" alt="AWS Cloud Practitioner" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"> </a>
+<a href="http://www.credly.com/badges/77751712-95c0-4ee2-85d8-76799841df3a"> <img width="110" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"> </a>
+<a href="https://www.credly.com/badges/cfceaf26-8dc6-4b82-bdb8-4d73ae99cc57"> <img width="110" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"> </a>
 <img width="110" alt="GCP-Associate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66412248">
