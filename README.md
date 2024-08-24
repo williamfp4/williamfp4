@@ -25,9 +25,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Megaman" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/546839066273120277/1064811853982744667/megamen-animacao.gif?ex=666c9d11&is=666b4b91&hm=18204b59b2de386ded58cf3594a32e22b9234ecfdea5f36baa79979e858ccede&">
-  <img align="center" alt="Pikachu" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/546839066273120277/1064800824678678528/pikachu-running.gif?ex=666c92cb&is=666b414b&hm=008a13bdb93ca32f98b562acb0ede396ef09c596ccd7f9c3ad9694de8a3d807a&">
-  <img align="center" alt="Sonic" height="150" width="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/546839066273120277/1064812411439288400/sonic-running.gif?ex=666c9d96&is=666b4c16&hm=6d5c18c23390ed2c79ccdd2d591298ff35d8889d9f5d0730711f9e25cc0102db&">
+  <img align="center" alt="Megaman" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/megamen-anima%C3%A7%C3%A3o.gif">
+  <img align="center" alt="Pikachu" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/pikachu-running.gif">
+  <img align="center" alt="Sonic" height="150" width="130" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/sonic-running.gif">
 </div> <br><br>
 
 ## My Achievements and Certifications:
