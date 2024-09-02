@@ -25,7 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Megaman" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/megamen-anima%C3%A7%C3%A3o.gif">
+  <img align="center" alt="Megaman" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/megaman.gif">
   <img align="center" alt="Pikachu" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/pikachu-running.gif">
   <img align="center" alt="Sonic" height="150" width="130" style="border-radius:50px;" src="https://raw.githubusercontent.com/williamfp4/williamfp4/master/sonic-running.gif">
 </div> <br><br>
